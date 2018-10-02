@@ -43,3 +43,4 @@ requirements.in
 microblog.code-workspace
 pip-tools-master
 .vscode
+dircolors.default

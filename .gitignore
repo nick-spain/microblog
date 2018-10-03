@@ -29,6 +29,7 @@ nosetests.xml
 
 # Translations
 *.mo
+messages.pot
 
 # Mr Developer
 .mr.developer.cfg

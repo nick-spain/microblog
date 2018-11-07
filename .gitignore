@@ -42,7 +42,7 @@ useless
 venv
 app.db
 microblog.log*
-# requirements.txt
+requirements.txt
 requirements.in
 microblog.code-workspace
 pip-tools-master
